@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [6.7.0](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/compare/v6.6.0...v6.7.0) (2026-05-26)
+
+### Features
+
+* Support `cache_tag_config` ([#206](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/issues/206)) ([6d3ee79](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/commit/6d3ee796ed541730dc6cc05e53105c333ed7023e))
+
 ## [6.6.0](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/compare/v6.5.1...v6.6.0) (2026-05-08)
 
 ### Features
